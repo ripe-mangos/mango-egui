@@ -1,6 +1,8 @@
 [package]
 name = "mango-egui"
 description = "My egui widgets"
+repository = "https://github.com/ripe-mangos/mango-egui"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
